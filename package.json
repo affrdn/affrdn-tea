@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affrdn/affrdn-tea.git"
+    "url": "https://github.com/affrdn/affrdn-tea"
   },
   "keywords": [
     "aff"
